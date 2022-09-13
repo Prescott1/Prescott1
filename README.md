@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prescott1
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML, CSS, JS, and SQL  
+- 🌱 I’m currently learning HTML, CSS, JS,PHP, mySQL, and Java.  
 - 💞️ I’m looking to collaborate on any webpages/ websites that I can.
 - 📫 How to reach me 
 
